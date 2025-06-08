@@ -1,0 +1,2797 @@
+[
+    {
+        "territory_id": "3",
+        "territory_desc": "퀘스트 채집물",
+        "collection_id": "1",
+        "collection_desc": "439 마력의 심",
+        "type_id": 439,
+        "respawn_time": 30,
+        "coordinates": [
+            -23683.1602,
+            -99476.8672,
+            8331.3291
+        ]
+    },
+    {
+        "territory_id": "3",
+        "territory_desc": "퀘스트 채집물",
+        "collection_id": "1",
+        "collection_desc": "439 마력의 심",
+        "type_id": 439,
+        "respawn_time": 30,
+        "coordinates": [
+            -22950.5762,
+            -100711.7266,
+            8780.9824
+        ]
+    },
+    {
+        "territory_id": "3",
+        "territory_desc": "퀘스트 채집물",
+        "collection_id": "1",
+        "collection_desc": "439 마력의 심",
+        "type_id": 439,
+        "respawn_time": 30,
+        "coordinates": [
+            -22411.3066,
+            -101189.0,
+            8806.7666
+        ]
+    },
+    {
+        "territory_id": "3",
+        "territory_desc": "퀘스트 채집물",
+        "collection_id": "1",
+        "collection_desc": "439 마력의 심",
+        "type_id": 439,
+        "respawn_time": 30,
+        "coordinates": [
+            -22408.8027,
+            -102786.0156,
+            9119.8545
+        ]
+    },
+    {
+        "territory_id": "3",
+        "territory_desc": "퀘스트 채집물",
+        "collection_id": "1",
+        "collection_desc": "439 마력의 심",
+        "type_id": 439,
+        "respawn_time": 30,
+        "coordinates": [
+            -21718.2109,
+            -101769.7813,
+            8895.8301
+        ]
+    },
+    {
+        "territory_id": "3",
+        "territory_desc": "퀘스트 채집물",
+        "collection_id": "1",
+        "collection_desc": "439 마력의 심",
+        "type_id": 439,
+        "respawn_time": 30,
+        "coordinates": [
+            -23172.3438,
+            -102628.8516,
+            8953.3428
+        ]
+    },
+    {
+        "territory_id": "3",
+        "territory_desc": "퀘스트 채집물",
+        "collection_id": "1",
+        "collection_desc": "439 마력의 심",
+        "type_id": 439,
+        "respawn_time": 30,
+        "coordinates": [
+            -20901.627,
+            -102864.2656,
+            9337.0947
+        ]
+    },
+    {
+        "territory_id": "3",
+        "territory_desc": "퀘스트 채집물",
+        "collection_id": "1",
+        "collection_desc": "439 마력의 심",
+        "type_id": 439,
+        "respawn_time": 30,
+        "coordinates": [
+            -25451.6621,
+            -102391.3438,
+            8740.7031
+        ]
+    },
+    {
+        "territory_id": "3",
+        "territory_desc": "퀘스트 채집물",
+        "collection_id": "1",
+        "collection_desc": "439 마력의 심",
+        "type_id": 439,
+        "respawn_time": 30,
+        "coordinates": [
+            -26013.7266,
+            -101563.8828,
+            8632.6367
+        ]
+    },
+    {
+        "territory_id": "3",
+        "territory_desc": "퀘스트 채집물",
+        "collection_id": "1",
+        "collection_desc": "439 마력의 심",
+        "type_id": 439,
+        "respawn_time": 30,
+        "coordinates": [
+            -27657.8047,
+            -100956.4688,
+            8653.0859
+        ]
+    },
+    {
+        "territory_id": "3",
+        "territory_desc": "퀘스트 채집물",
+        "collection_id": "1",
+        "collection_desc": "439 마력의 심",
+        "type_id": 439,
+        "respawn_time": 30,
+        "coordinates": [
+            -26062.377,
+            -100467.5859,
+            8401.3916
+        ]
+    },
+    {
+        "territory_id": "3",
+        "territory_desc": "퀘스트 채집물",
+        "collection_id": "1",
+        "collection_desc": "439 마력의 심",
+        "type_id": 439,
+        "respawn_time": 30,
+        "coordinates": [
+            -26657.9258,
+            -99060.0547,
+            8432.0781
+        ]
+    },
+    {
+        "territory_id": "3",
+        "territory_desc": "퀘스트 채집물",
+        "collection_id": "1",
+        "collection_desc": "439 마력의 심",
+        "type_id": 439,
+        "respawn_time": 30,
+        "coordinates": [
+            -26692.7305,
+            -97651.3281,
+            8181.5425
+        ]
+    },
+    {
+        "territory_id": "3",
+        "territory_desc": "퀘스트 채집물",
+        "collection_id": "1",
+        "collection_desc": "439 마력의 심",
+        "type_id": 439,
+        "respawn_time": 30,
+        "coordinates": [
+            -27756.1055,
+            -98877.1016,
+            8510.9209
+        ]
+    },
+    {
+        "territory_id": "3",
+        "territory_desc": "퀘스트 채집물",
+        "collection_id": "1",
+        "collection_desc": "439 마력의 심",
+        "type_id": 439,
+        "respawn_time": 30,
+        "coordinates": [
+            -28914.9023,
+            -99974.8516,
+            8784.002
+        ]
+    },
+    {
+        "territory_id": "3",
+        "territory_desc": "퀘스트 채집물",
+        "collection_id": "1",
+        "collection_desc": "439 마력의 심",
+        "type_id": 439,
+        "respawn_time": 30,
+        "coordinates": [
+            -29441.2188,
+            -99212.1797,
+            8950.3369
+        ]
+    },
+    {
+        "territory_id": "3",
+        "territory_desc": "퀘스트 채집물",
+        "collection_id": "1",
+        "collection_desc": "439 마력의 심",
+        "type_id": 439,
+        "respawn_time": 30,
+        "coordinates": [
+            -24806.9199,
+            -101594.2422,
+            8664.6787
+        ]
+    },
+    {
+        "territory_id": "3",
+        "territory_desc": "퀘스트 채집물",
+        "collection_id": "1",
+        "collection_desc": "439 마력의 심",
+        "type_id": 439,
+        "respawn_time": 30,
+        "coordinates": [
+            -23211.6367,
+            -101621.4141,
+            8832.5596
+        ]
+    },
+    {
+        "territory_id": "3",
+        "territory_desc": "퀘스트 채집물",
+        "collection_id": "1",
+        "collection_desc": "439 마력의 심",
+        "type_id": 439,
+        "respawn_time": 30,
+        "coordinates": [
+            -24307.252,
+            -100924.7188,
+            8609.2031
+        ]
+    },
+    {
+        "territory_id": "3",
+        "territory_desc": "퀘스트 채집물",
+        "collection_id": "1",
+        "collection_desc": "439 마력의 심",
+        "type_id": 439,
+        "respawn_time": 30,
+        "coordinates": [
+            -25369.2188,
+            -99457.8281,
+            8282.5674
+        ]
+    },
+    {
+        "territory_id": "3",
+        "territory_desc": "퀘스트 채집물",
+        "collection_id": "1",
+        "collection_desc": "439 마력의 심",
+        "type_id": 439,
+        "respawn_time": 30,
+        "coordinates": [
+            -25616.0977,
+            -98101.5781,
+            8081.2178
+        ]
+    },
+    {
+        "territory_id": "3",
+        "territory_desc": "퀘스트 채집물",
+        "collection_id": "1",
+        "collection_desc": "439 마력의 심",
+        "type_id": 439,
+        "respawn_time": 30,
+        "coordinates": [
+            -27113.5293,
+            -100188.9688,
+            8504.9473
+        ]
+    },
+    {
+        "territory_id": "3",
+        "territory_desc": "퀘스트 채집물",
+        "collection_id": "2",
+        "collection_desc": "491 카이둔군의 보급품",
+        "type_id": 491,
+        "respawn_time": 30,
+        "coordinates": [
+            -6156.4414,
+            -79459.3906,
+            4248.2227
+        ]
+    },
+    {
+        "territory_id": "3",
+        "territory_desc": "퀘스트 채집물",
+        "collection_id": "2",
+        "collection_desc": "491 카이둔군의 보급품",
+        "type_id": 491,
+        "respawn_time": 30,
+        "coordinates": [
+            -6471.2686,
+            -81718.5859,
+            4280.3442
+        ]
+    },
+    {
+        "territory_id": "3",
+        "territory_desc": "퀘스트 채집물",
+        "collection_id": "2",
+        "collection_desc": "491 카이둔군의 보급품",
+        "type_id": 491,
+        "respawn_time": 30,
+        "coordinates": [
+            -8948.377,
+            -83646.0078,
+            4383.0527
+        ]
+    },
+    {
+        "territory_id": "3",
+        "territory_desc": "퀘스트 채집물",
+        "collection_id": "2",
+        "collection_desc": "491 카이둔군의 보급품",
+        "type_id": 491,
+        "respawn_time": 30,
+        "coordinates": [
+            -3053.7944,
+            -86009.5156,
+            3971.4641
+        ]
+    },
+    {
+        "territory_id": "3",
+        "territory_desc": "퀘스트 채집물",
+        "collection_id": "2",
+        "collection_desc": "491 카이둔군의 보급품",
+        "type_id": 491,
+        "respawn_time": 30,
+        "coordinates": [
+            -4089.052,
+            -84777.9766,
+            3778.1509
+        ]
+    },
+    {
+        "territory_id": "3",
+        "territory_desc": "퀘스트 채집물",
+        "collection_id": "2",
+        "collection_desc": "491 카이둔군의 보급품",
+        "type_id": 491,
+        "respawn_time": 30,
+        "coordinates": [
+            -6552.0435,
+            -80843.8828,
+            4237.0947
+        ]
+    },
+    {
+        "territory_id": "3",
+        "territory_desc": "퀘스트 채집물",
+        "collection_id": "2",
+        "collection_desc": "491 카이둔군의 보급품",
+        "type_id": 491,
+        "respawn_time": 30,
+        "coordinates": [
+            -9036.0762,
+            -80797.9688,
+            4250.0654
+        ]
+    },
+    {
+        "territory_id": "3",
+        "territory_desc": "퀘스트 채집물",
+        "collection_id": "2",
+        "collection_desc": "491 카이둔군의 보급품",
+        "type_id": 491,
+        "respawn_time": 30,
+        "coordinates": [
+            -9400.4395,
+            -80402.7422,
+            4343.1924
+        ]
+    },
+    {
+        "territory_id": "3",
+        "territory_desc": "퀘스트 채집물",
+        "collection_id": "2",
+        "collection_desc": "491 카이둔군의 보급품",
+        "type_id": 491,
+        "respawn_time": 30,
+        "coordinates": [
+            -10595.8613,
+            -80068.0781,
+            4521.4951
+        ]
+    },
+    {
+        "territory_id": "3",
+        "territory_desc": "퀘스트 채집물",
+        "collection_id": "2",
+        "collection_desc": "491 카이둔군의 보급품",
+        "type_id": 491,
+        "respawn_time": 30,
+        "coordinates": [
+            -10206.6963,
+            -78977.5859,
+            4560.8813
+        ]
+    },
+    {
+        "territory_id": "3",
+        "territory_desc": "퀘스트 채집물",
+        "collection_id": "2",
+        "collection_desc": "491 카이둔군의 보급품",
+        "type_id": 491,
+        "respawn_time": 30,
+        "coordinates": [
+            -10307.0059,
+            -79496.4063,
+            4525.3081
+        ]
+    },
+    {
+        "territory_id": "3",
+        "territory_desc": "퀘스트 채집물",
+        "collection_id": "2",
+        "collection_desc": "491 카이둔군의 보급품",
+        "type_id": 491,
+        "respawn_time": 30,
+        "coordinates": [
+            -9330.4297,
+            -77583.8672,
+            4497.8027
+        ]
+    },
+    {
+        "territory_id": "3",
+        "territory_desc": "퀘스트 채집물",
+        "collection_id": "2",
+        "collection_desc": "491 카이둔군의 보급품",
+        "type_id": 491,
+        "respawn_time": 30,
+        "coordinates": [
+            -7858.1392,
+            -78630.9141,
+            4430.6406
+        ]
+    },
+    {
+        "territory_id": "3",
+        "territory_desc": "퀘스트 채집물",
+        "collection_id": "3",
+        "collection_desc": "460 어둠의 용병단 보급품",
+        "type_id": 460,
+        "respawn_time": 30,
+        "coordinates": [
+            -24503.7285,
+            -88811.9766,
+            5685.4312
+        ]
+    },
+    {
+        "territory_id": "3",
+        "territory_desc": "퀘스트 채집물",
+        "collection_id": "3",
+        "collection_desc": "460 어둠의 용병단 보급품",
+        "type_id": 460,
+        "respawn_time": 30,
+        "coordinates": [
+            -25139.125,
+            -87595.5547,
+            5602.1172
+        ]
+    },
+    {
+        "territory_id": "3",
+        "territory_desc": "퀘스트 채집물",
+        "collection_id": "3",
+        "collection_desc": "460 어둠의 용병단 보급품",
+        "type_id": 460,
+        "respawn_time": 30,
+        "coordinates": [
+            -24197.459,
+            -89226.7656,
+            5722.7471
+        ]
+    },
+    {
+        "territory_id": "3",
+        "territory_desc": "퀘스트 채집물",
+        "collection_id": "3",
+        "collection_desc": "460 어둠의 용병단 보급품",
+        "type_id": 460,
+        "respawn_time": 30,
+        "coordinates": [
+            -22921.3867,
+            -89548.1328,
+            5774.1328
+        ]
+    },
+    {
+        "territory_id": "3",
+        "territory_desc": "퀘스트 채집물",
+        "collection_id": "3",
+        "collection_desc": "460 어둠의 용병단 보급품",
+        "type_id": 460,
+        "respawn_time": 30,
+        "coordinates": [
+            -22263.6328,
+            -88962.5234,
+            5800.7451
+        ]
+    },
+    {
+        "territory_id": "3",
+        "territory_desc": "퀘스트 채집물",
+        "collection_id": "3",
+        "collection_desc": "460 어둠의 용병단 보급품",
+        "type_id": 460,
+        "respawn_time": 30,
+        "coordinates": [
+            -20657.2168,
+            -88492.875,
+            5943.291
+        ]
+    },
+    {
+        "territory_id": "3",
+        "territory_desc": "퀘스트 채집물",
+        "collection_id": "3",
+        "collection_desc": "460 어둠의 용병단 보급품",
+        "type_id": 460,
+        "respawn_time": 30,
+        "coordinates": [
+            -20749.5566,
+            -88299.6328,
+            5940.731
+        ]
+    },
+    {
+        "territory_id": "3",
+        "territory_desc": "퀘스트 채집물",
+        "collection_id": "3",
+        "collection_desc": "460 어둠의 용병단 보급품",
+        "type_id": 460,
+        "respawn_time": 30,
+        "coordinates": [
+            -21094.9277,
+            -89096.7969,
+            5921.2065
+        ]
+    },
+    {
+        "territory_id": "3",
+        "territory_desc": "퀘스트 채집물",
+        "collection_id": "3",
+        "collection_desc": "460 어둠의 용병단 보급품",
+        "type_id": 460,
+        "respawn_time": 30,
+        "coordinates": [
+            -23541.8828,
+            -87361.5078,
+            5690.1895
+        ]
+    },
+    {
+        "territory_id": "3",
+        "territory_desc": "퀘스트 채집물",
+        "collection_id": "3",
+        "collection_desc": "460 어둠의 용병단 보급품",
+        "type_id": 460,
+        "respawn_time": 30,
+        "coordinates": [
+            -23542.5078,
+            -86448.4375,
+            5683.5264
+        ]
+    },
+    {
+        "territory_id": "3",
+        "territory_desc": "퀘스트 채집물",
+        "collection_id": "3",
+        "collection_desc": "460 어둠의 용병단 보급품",
+        "type_id": 460,
+        "respawn_time": 30,
+        "coordinates": [
+            -25903.5137,
+            -87191.9219,
+            5694.3086
+        ]
+    },
+    {
+        "territory_id": "3",
+        "territory_desc": "퀘스트 채집물",
+        "collection_id": "3",
+        "collection_desc": "460 어둠의 용병단 보급품",
+        "type_id": 460,
+        "respawn_time": 30,
+        "coordinates": [
+            -25110.4199,
+            -86391.8516,
+            5577.8896
+        ]
+    },
+    {
+        "territory_id": "3",
+        "territory_desc": "퀘스트 채집물",
+        "collection_id": "3",
+        "collection_desc": "460 어둠의 용병단 보급품",
+        "type_id": 460,
+        "respawn_time": 30,
+        "coordinates": [
+            -24622.7754,
+            -85815.1484,
+            5629.2939
+        ]
+    },
+    {
+        "territory_id": "3",
+        "territory_desc": "퀘스트 채집물",
+        "collection_id": "3",
+        "collection_desc": "460 어둠의 용병단 보급품",
+        "type_id": 460,
+        "respawn_time": 30,
+        "coordinates": [
+            -24597.8867,
+            -87301.6953,
+            5586.5972
+        ]
+    },
+    {
+        "territory_id": "11",
+        "territory_desc": "폭군의 고원 23",
+        "collection_id": "4",
+        "collection_desc": "식물 23",
+        "type_id": 23,
+        "respawn_time": 45,
+        "coordinates": [
+            -21327.0859,
+            -98533.625,
+            8700.5459
+        ]
+    },
+    {
+        "territory_id": "11",
+        "territory_desc": "폭군의 고원 23",
+        "collection_id": "4",
+        "collection_desc": "식물 23",
+        "type_id": 23,
+        "respawn_time": 45,
+        "coordinates": [
+            -22912.1074,
+            -98707.8125,
+            8437.7861
+        ]
+    },
+    {
+        "territory_id": "11",
+        "territory_desc": "폭군의 고원 23",
+        "collection_id": "4",
+        "collection_desc": "식물 23",
+        "type_id": 23,
+        "respawn_time": 45,
+        "coordinates": [
+            -26120.5645,
+            -98906.5469,
+            8262.2129
+        ]
+    },
+    {
+        "territory_id": "11",
+        "territory_desc": "폭군의 고원 23",
+        "collection_id": "4",
+        "collection_desc": "식물 23",
+        "type_id": 23,
+        "respawn_time": 45,
+        "coordinates": [
+            -28333.7695,
+            -98460.9531,
+            8661.8936
+        ]
+    },
+    {
+        "territory_id": "11",
+        "territory_desc": "폭군의 고원 23",
+        "collection_id": "4",
+        "collection_desc": "식물 23",
+        "type_id": 23,
+        "respawn_time": 45,
+        "coordinates": [
+            -29449.5449,
+            -99644.9141,
+            8911.8184
+        ]
+    },
+    {
+        "territory_id": "11",
+        "territory_desc": "폭군의 고원 23",
+        "collection_id": "4",
+        "collection_desc": "식물 23",
+        "type_id": 23,
+        "respawn_time": 45,
+        "coordinates": [
+            -22551.791,
+            -99624.6328,
+            8420.4648
+        ]
+    },
+    {
+        "territory_id": "11",
+        "territory_desc": "폭군의 고원 23",
+        "collection_id": "4",
+        "collection_desc": "식물 23",
+        "type_id": 23,
+        "respawn_time": 45,
+        "coordinates": [
+            -22056.3086,
+            -94388.7344,
+            7283.416
+        ]
+    },
+    {
+        "territory_id": "11",
+        "territory_desc": "폭군의 고원 23",
+        "collection_id": "4",
+        "collection_desc": "식물 23",
+        "type_id": 23,
+        "respawn_time": 45,
+        "coordinates": [
+            -20450.7246,
+            -94014.875,
+            7313.1133
+        ]
+    },
+    {
+        "territory_id": "11",
+        "territory_desc": "폭군의 고원 23",
+        "collection_id": "4",
+        "collection_desc": "식물 23",
+        "type_id": 23,
+        "respawn_time": 45,
+        "coordinates": [
+            -20132.5742,
+            -93322.6797,
+            7255.5649
+        ]
+    },
+    {
+        "territory_id": "11",
+        "territory_desc": "폭군의 고원 23",
+        "collection_id": "4",
+        "collection_desc": "식물 23",
+        "type_id": 23,
+        "respawn_time": 45,
+        "coordinates": [
+            -20168.1523,
+            -89821.7969,
+            6758.7485
+        ]
+    },
+    {
+        "territory_id": "11",
+        "territory_desc": "폭군의 고원 23",
+        "collection_id": "4",
+        "collection_desc": "식물 23",
+        "type_id": 23,
+        "respawn_time": 45,
+        "coordinates": [
+            -18576.8398,
+            -88099.0859,
+            6792.2021
+        ]
+    },
+    {
+        "territory_id": "11",
+        "territory_desc": "폭군의 고원 23",
+        "collection_id": "4",
+        "collection_desc": "식물 23",
+        "type_id": 23,
+        "respawn_time": 45,
+        "coordinates": [
+            -17566.377,
+            -88849.4922,
+            7054.3623
+        ]
+    },
+    {
+        "territory_id": "11",
+        "territory_desc": "폭군의 고원 23",
+        "collection_id": "4",
+        "collection_desc": "식물 23",
+        "type_id": 23,
+        "respawn_time": 45,
+        "coordinates": [
+            -14747.1055,
+            -88553.2109,
+            7227.2686
+        ]
+    },
+    {
+        "territory_id": "11",
+        "territory_desc": "폭군의 고원 23",
+        "collection_id": "4",
+        "collection_desc": "식물 23",
+        "type_id": 23,
+        "respawn_time": 45,
+        "coordinates": [
+            -25265.1543,
+            -90902.5547,
+            6429.2295
+        ]
+    },
+    {
+        "territory_id": "11",
+        "territory_desc": "폭군의 고원 23",
+        "collection_id": "4",
+        "collection_desc": "식물 23",
+        "type_id": 23,
+        "respawn_time": 45,
+        "coordinates": [
+            -26152.7617,
+            -90100.0781,
+            6202.5591
+        ]
+    },
+    {
+        "territory_id": "11",
+        "territory_desc": "폭군의 고원 23",
+        "collection_id": "4",
+        "collection_desc": "식물 23",
+        "type_id": 23,
+        "respawn_time": 45,
+        "coordinates": [
+            -23655.4023,
+            -93185.4375,
+            6937.8223
+        ]
+    },
+    {
+        "territory_id": "11",
+        "territory_desc": "폭군의 고원 23",
+        "collection_id": "4",
+        "collection_desc": "식물 23",
+        "type_id": 23,
+        "respawn_time": 45,
+        "coordinates": [
+            -23135.2305,
+            -94642.5625,
+            7272.7573
+        ]
+    },
+    {
+        "territory_id": "11",
+        "territory_desc": "폭군의 고원 23",
+        "collection_id": "4",
+        "collection_desc": "식물 23",
+        "type_id": 23,
+        "respawn_time": 45,
+        "coordinates": [
+            -22043.2305,
+            -93636.2109,
+            7026.812
+        ]
+    },
+    {
+        "territory_id": "11",
+        "territory_desc": "폭군의 고원 23",
+        "collection_id": "4",
+        "collection_desc": "식물 23",
+        "type_id": 23,
+        "respawn_time": 45,
+        "coordinates": [
+            -20735.1934,
+            -93002.9063,
+            7013.96
+        ]
+    },
+    {
+        "territory_id": "11",
+        "territory_desc": "폭군의 고원 23",
+        "collection_id": "4",
+        "collection_desc": "식물 23",
+        "type_id": 23,
+        "respawn_time": 45,
+        "coordinates": [
+            -21664.6914,
+            -92665.6875,
+            6861.7134
+        ]
+    },
+    {
+        "territory_id": "11",
+        "territory_desc": "폭군의 고원 23",
+        "collection_id": "4",
+        "collection_desc": "식물 23",
+        "type_id": 23,
+        "respawn_time": 45,
+        "coordinates": [
+            -22790.6367,
+            -92662.9063,
+            6874.668
+        ]
+    },
+    {
+        "territory_id": "11",
+        "territory_desc": "폭군의 고원 23",
+        "collection_id": "4",
+        "collection_desc": "식물 23",
+        "type_id": 23,
+        "respawn_time": 45,
+        "coordinates": [
+            -21252.0801,
+            -91951.2813,
+            6799.0518
+        ]
+    },
+    {
+        "territory_id": "11",
+        "territory_desc": "폭군의 고원 23",
+        "collection_id": "4",
+        "collection_desc": "식물 23",
+        "type_id": 23,
+        "respawn_time": 45,
+        "coordinates": [
+            -22185.5625,
+            -91461.375,
+            6668.4824
+        ]
+    },
+    {
+        "territory_id": "11",
+        "territory_desc": "폭군의 고원 23",
+        "collection_id": "4",
+        "collection_desc": "식물 23",
+        "type_id": 23,
+        "respawn_time": 45,
+        "coordinates": [
+            -20409.7676,
+            -90927.6563,
+            6766.6147
+        ]
+    },
+    {
+        "territory_id": "11",
+        "territory_desc": "폭군의 고원 23",
+        "collection_id": "4",
+        "collection_desc": "식물 23",
+        "type_id": 23,
+        "respawn_time": 45,
+        "coordinates": [
+            -19783.4063,
+            -91530.9531,
+            6931.4614
+        ]
+    },
+    {
+        "territory_id": "11",
+        "territory_desc": "폭군의 고원 23",
+        "collection_id": "4",
+        "collection_desc": "식물 23",
+        "type_id": 23,
+        "respawn_time": 45,
+        "coordinates": [
+            -18426.8379,
+            -89168.0859,
+            6907.8433
+        ]
+    },
+    {
+        "territory_id": "11",
+        "territory_desc": "폭군의 고원 23",
+        "collection_id": "4",
+        "collection_desc": "식물 23",
+        "type_id": 23,
+        "respawn_time": 45,
+        "coordinates": [
+            -19021.0098,
+            -87320.4922,
+            6736.873
+        ]
+    },
+    {
+        "territory_id": "11",
+        "territory_desc": "폭군의 고원 23",
+        "collection_id": "4",
+        "collection_desc": "식물 23",
+        "type_id": 23,
+        "respawn_time": 45,
+        "coordinates": [
+            -19234.5391,
+            -89621.25,
+            6874.7778
+        ]
+    },
+    {
+        "territory_id": "11",
+        "territory_desc": "폭군의 고원 23",
+        "collection_id": "4",
+        "collection_desc": "식물 23",
+        "type_id": 23,
+        "respawn_time": 45,
+        "coordinates": [
+            -16150.7275,
+            -89638.3203,
+            7436.9453
+        ]
+    },
+    {
+        "territory_id": "11",
+        "territory_desc": "폭군의 고원 23",
+        "collection_id": "4",
+        "collection_desc": "식물 23",
+        "type_id": 23,
+        "respawn_time": 45,
+        "coordinates": [
+            -18302.1836,
+            -90119.4844,
+            7079.332
+        ]
+    },
+    {
+        "territory_id": "11",
+        "territory_desc": "폭군의 고원 23",
+        "collection_id": "4",
+        "collection_desc": "식물 23",
+        "type_id": 23,
+        "respawn_time": 45,
+        "coordinates": [
+            -18404.7949,
+            -91776.4297,
+            7208.7524
+        ]
+    },
+    {
+        "territory_id": "11",
+        "territory_desc": "폭군의 고원 23",
+        "collection_id": "4",
+        "collection_desc": "식물 23",
+        "type_id": 23,
+        "respawn_time": 45,
+        "coordinates": [
+            -18797.4453,
+            -90704.7813,
+            7022.3647
+        ]
+    },
+    {
+        "territory_id": "11",
+        "territory_desc": "폭군의 고원 23",
+        "collection_id": "4",
+        "collection_desc": "식물 23",
+        "type_id": 23,
+        "respawn_time": 45,
+        "coordinates": [
+            -7775.3188,
+            -74855.2031,
+            2682.7153
+        ]
+    },
+    {
+        "territory_id": "11",
+        "territory_desc": "폭군의 고원 23",
+        "collection_id": "4",
+        "collection_desc": "식물 23",
+        "type_id": 23,
+        "respawn_time": 45,
+        "coordinates": [
+            -9174.6787,
+            -74408.4922,
+            2392.4497
+        ]
+    },
+    {
+        "territory_id": "11",
+        "territory_desc": "폭군의 고원 23",
+        "collection_id": "4",
+        "collection_desc": "식물 23",
+        "type_id": 23,
+        "respawn_time": 45,
+        "coordinates": [
+            -9705.7441,
+            -73836.4531,
+            2351.4531
+        ]
+    },
+    {
+        "territory_id": "11",
+        "territory_desc": "폭군의 고원 23",
+        "collection_id": "4",
+        "collection_desc": "식물 23",
+        "type_id": 23,
+        "respawn_time": 45,
+        "coordinates": [
+            -11615.2178,
+            -72740.0313,
+            2401.1694
+        ]
+    },
+    {
+        "territory_id": "11",
+        "territory_desc": "폭군의 고원 23",
+        "collection_id": "4",
+        "collection_desc": "식물 23",
+        "type_id": 23,
+        "respawn_time": 45,
+        "coordinates": [
+            -11331.627,
+            -70884.6563,
+            2183.333
+        ]
+    },
+    {
+        "territory_id": "11",
+        "territory_desc": "폭군의 고원 23",
+        "collection_id": "4",
+        "collection_desc": "식물 23",
+        "type_id": 23,
+        "respawn_time": 45,
+        "coordinates": [
+            -12655.6895,
+            -72041.5625,
+            2481.3066
+        ]
+    },
+    {
+        "territory_id": "11",
+        "territory_desc": "폭군의 고원 23",
+        "collection_id": "4",
+        "collection_desc": "식물 23",
+        "type_id": 23,
+        "respawn_time": 45,
+        "coordinates": [
+            -13922.3262,
+            -73691.1328,
+            2950.0566
+        ]
+    },
+    {
+        "territory_id": "11",
+        "territory_desc": "폭군의 고원 23",
+        "collection_id": "4",
+        "collection_desc": "식물 23",
+        "type_id": 23,
+        "respawn_time": 45,
+        "coordinates": [
+            -12931.6172,
+            -74852.7266,
+            2680.6255
+        ]
+    },
+    {
+        "territory_id": "11",
+        "territory_desc": "폭군의 고원 23",
+        "collection_id": "4",
+        "collection_desc": "식물 23",
+        "type_id": 23,
+        "respawn_time": 45,
+        "coordinates": [
+            -14711.9834,
+            -75148.6875,
+            3069.3943
+        ]
+    },
+    {
+        "territory_id": "11",
+        "territory_desc": "폭군의 고원 23",
+        "collection_id": "4",
+        "collection_desc": "식물 23",
+        "type_id": 23,
+        "respawn_time": 45,
+        "coordinates": [
+            -14617.623,
+            -76342.5547,
+            3719.49
+        ]
+    },
+    {
+        "territory_id": "11",
+        "territory_desc": "폭군의 고원 23",
+        "collection_id": "4",
+        "collection_desc": "식물 23",
+        "type_id": 23,
+        "respawn_time": 45,
+        "coordinates": [
+            -16563.5039,
+            -75203.8047,
+            3334.8062
+        ]
+    },
+    {
+        "territory_id": "11",
+        "territory_desc": "폭군의 고원 23",
+        "collection_id": "4",
+        "collection_desc": "식물 23",
+        "type_id": 23,
+        "respawn_time": 45,
+        "coordinates": [
+            -17690.2227,
+            -76287.0391,
+            3538.9063
+        ]
+    },
+    {
+        "territory_id": "11",
+        "territory_desc": "폭군의 고원 23",
+        "collection_id": "4",
+        "collection_desc": "식물 23",
+        "type_id": 23,
+        "respawn_time": 45,
+        "coordinates": [
+            -18123.5723,
+            -78000.7969,
+            3844.9744
+        ]
+    },
+    {
+        "territory_id": "11",
+        "territory_desc": "폭군의 고원 23",
+        "collection_id": "4",
+        "collection_desc": "식물 23",
+        "type_id": 23,
+        "respawn_time": 45,
+        "coordinates": [
+            -20500.2871,
+            -77902.1875,
+            3668.5005
+        ]
+    },
+    {
+        "territory_id": "11",
+        "territory_desc": "폭군의 고원 23",
+        "collection_id": "4",
+        "collection_desc": "식물 23",
+        "type_id": 23,
+        "respawn_time": 45,
+        "coordinates": [
+            -22985.8047,
+            -80152.7734,
+            3548.9668
+        ]
+    },
+    {
+        "territory_id": "11",
+        "territory_desc": "폭군의 고원 23",
+        "collection_id": "4",
+        "collection_desc": "식물 23",
+        "type_id": 23,
+        "respawn_time": 45,
+        "coordinates": [
+            -19669.8809,
+            -78424.8516,
+            3824.5093
+        ]
+    },
+    {
+        "territory_id": "11",
+        "territory_desc": "폭군의 고원 23",
+        "collection_id": "4",
+        "collection_desc": "식물 23",
+        "type_id": 23,
+        "respawn_time": 45,
+        "coordinates": [
+            -22260.8145,
+            -81568.0078,
+            3790.3579
+        ]
+    },
+    {
+        "territory_id": "11",
+        "territory_desc": "폭군의 고원 23",
+        "collection_id": "4",
+        "collection_desc": "식물 23",
+        "type_id": 23,
+        "respawn_time": 45,
+        "coordinates": [
+            -25125.873,
+            -78982.7344,
+            3610.7456
+        ]
+    },
+    {
+        "territory_id": "11",
+        "territory_desc": "폭군의 고원 23",
+        "collection_id": "4",
+        "collection_desc": "식물 23",
+        "type_id": 23,
+        "respawn_time": 45,
+        "coordinates": [
+            -28559.5488,
+            -78645.2578,
+            3293.4421
+        ]
+    },
+    {
+        "territory_id": "11",
+        "territory_desc": "폭군의 고원 23",
+        "collection_id": "4",
+        "collection_desc": "식물 23",
+        "type_id": 23,
+        "respawn_time": 45,
+        "coordinates": [
+            -26956.4277,
+            -79078.8438,
+            3525.4504
+        ]
+    },
+    {
+        "territory_id": "11",
+        "territory_desc": "폭군의 고원 23",
+        "collection_id": "5",
+        "collection_desc": "광물 123",
+        "type_id": 123,
+        "respawn_time": 45,
+        "coordinates": [
+            -5557.7925,
+            -75530.8438,
+            3150.1399
+        ]
+    },
+    {
+        "territory_id": "11",
+        "territory_desc": "폭군의 고원 23",
+        "collection_id": "5",
+        "collection_desc": "광물 123",
+        "type_id": 123,
+        "respawn_time": 45,
+        "coordinates": [
+            -4812.1855,
+            -76799.1172,
+            3350.6172
+        ]
+    },
+    {
+        "territory_id": "11",
+        "territory_desc": "폭군의 고원 23",
+        "collection_id": "5",
+        "collection_desc": "광물 123",
+        "type_id": 123,
+        "respawn_time": 45,
+        "coordinates": [
+            -4918.9253,
+            -79911.1563,
+            3390.802
+        ]
+    },
+    {
+        "territory_id": "11",
+        "territory_desc": "폭군의 고원 23",
+        "collection_id": "5",
+        "collection_desc": "광물 123",
+        "type_id": 123,
+        "respawn_time": 45,
+        "coordinates": [
+            -3126.939,
+            -81177.0703,
+            3685.4465
+        ]
+    },
+    {
+        "territory_id": "11",
+        "territory_desc": "폭군의 고원 23",
+        "collection_id": "5",
+        "collection_desc": "광물 123",
+        "type_id": 123,
+        "respawn_time": 45,
+        "coordinates": [
+            -4470.7598,
+            -87301.1641,
+            4082.208
+        ]
+    },
+    {
+        "territory_id": "11",
+        "territory_desc": "폭군의 고원 23",
+        "collection_id": "5",
+        "collection_desc": "광물 123",
+        "type_id": 123,
+        "respawn_time": 45,
+        "coordinates": [
+            -6764.1953,
+            -86103.4141,
+            4183.3506
+        ]
+    },
+    {
+        "territory_id": "11",
+        "territory_desc": "폭군의 고원 23",
+        "collection_id": "5",
+        "collection_desc": "광물 123",
+        "type_id": 123,
+        "respawn_time": 45,
+        "coordinates": [
+            -8819.2285,
+            -86100.8359,
+            4637.7676
+        ]
+    },
+    {
+        "territory_id": "11",
+        "territory_desc": "폭군의 고원 23",
+        "collection_id": "5",
+        "collection_desc": "광물 123",
+        "type_id": 123,
+        "respawn_time": 45,
+        "coordinates": [
+            -10934.0527,
+            -86919.1328,
+            5072.7627
+        ]
+    },
+    {
+        "territory_id": "11",
+        "territory_desc": "폭군의 고원 23",
+        "collection_id": "5",
+        "collection_desc": "광물 123",
+        "type_id": 123,
+        "respawn_time": 45,
+        "coordinates": [
+            -11123.1377,
+            -82958.6328,
+            5072.1074
+        ]
+    },
+    {
+        "territory_id": "11",
+        "territory_desc": "폭군의 고원 23",
+        "collection_id": "5",
+        "collection_desc": "광물 123",
+        "type_id": 123,
+        "respawn_time": 45,
+        "coordinates": [
+            -13612.1406,
+            -80334.6953,
+            5333.5176
+        ]
+    },
+    {
+        "territory_id": "11",
+        "territory_desc": "폭군의 고원 23",
+        "collection_id": "5",
+        "collection_desc": "광물 123",
+        "type_id": 123,
+        "respawn_time": 45,
+        "coordinates": [
+            -14184.2266,
+            -82044.625,
+            5181.9111
+        ]
+    },
+    {
+        "territory_id": "11",
+        "territory_desc": "폭군의 고원 23",
+        "collection_id": "5",
+        "collection_desc": "광물 123",
+        "type_id": 123,
+        "respawn_time": 45,
+        "coordinates": [
+            -14743.1543,
+            -85277.4688,
+            5216.4326
+        ]
+    },
+    {
+        "territory_id": "11",
+        "territory_desc": "폭군의 고원 23",
+        "collection_id": "5",
+        "collection_desc": "광물 123",
+        "type_id": 123,
+        "respawn_time": 45,
+        "coordinates": [
+            -15611.2471,
+            -81735.0156,
+            5409.1689
+        ]
+    },
+    {
+        "territory_id": "11",
+        "territory_desc": "폭군의 고원 23",
+        "collection_id": "5",
+        "collection_desc": "광물 123",
+        "type_id": 123,
+        "respawn_time": 45,
+        "coordinates": [
+            -17531.1289,
+            -83675.8281,
+            5336.6289
+        ]
+    },
+    {
+        "territory_id": "11",
+        "territory_desc": "폭군의 고원 23",
+        "collection_id": "5",
+        "collection_desc": "광물 123",
+        "type_id": 123,
+        "respawn_time": 45,
+        "coordinates": [
+            -18531.9746,
+            -81740.1797,
+            5296.8755
+        ]
+    },
+    {
+        "territory_id": "11",
+        "territory_desc": "폭군의 고원 23",
+        "collection_id": "5",
+        "collection_desc": "광물 123",
+        "type_id": 123,
+        "respawn_time": 45,
+        "coordinates": [
+            -17867.4648,
+            -80107.7891,
+            5413.4775
+        ]
+    },
+    {
+        "territory_id": "11",
+        "territory_desc": "폭군의 고원 23",
+        "collection_id": "5",
+        "collection_desc": "광물 123",
+        "type_id": 123,
+        "respawn_time": 45,
+        "coordinates": [
+            -19176.7227,
+            -80273.2422,
+            5440.958
+        ]
+    },
+    {
+        "territory_id": "11",
+        "territory_desc": "폭군의 고원 23",
+        "collection_id": "5",
+        "collection_desc": "광물 123",
+        "type_id": 123,
+        "respawn_time": 45,
+        "coordinates": [
+            -20418.8809,
+            -81681.2969,
+            5281.7026
+        ]
+    },
+    {
+        "territory_id": "11",
+        "territory_desc": "폭군의 고원 23",
+        "collection_id": "5",
+        "collection_desc": "광물 123",
+        "type_id": 123,
+        "respawn_time": 45,
+        "coordinates": [
+            -19125.043,
+            -83270.9219,
+            5260.6968
+        ]
+    },
+    {
+        "territory_id": "11",
+        "territory_desc": "폭군의 고원 23",
+        "collection_id": "5",
+        "collection_desc": "광물 123",
+        "type_id": 123,
+        "respawn_time": 45,
+        "coordinates": [
+            -19386.3965,
+            -82518.4219,
+            5289.2505
+        ]
+    },
+    {
+        "territory_id": "11",
+        "territory_desc": "폭군의 고원 23",
+        "collection_id": "5",
+        "collection_desc": "광물 123",
+        "type_id": 123,
+        "respawn_time": 45,
+        "coordinates": [
+            -20115.8691,
+            -82802.2813,
+            5255.5029
+        ]
+    },
+    {
+        "territory_id": "11",
+        "territory_desc": "폭군의 고원 23",
+        "collection_id": "5",
+        "collection_desc": "광물 123",
+        "type_id": 123,
+        "respawn_time": 45,
+        "coordinates": [
+            -19144.9063,
+            -81660.2578,
+            5356.1147
+        ]
+    },
+    {
+        "territory_id": "11",
+        "territory_desc": "폭군의 고원 23",
+        "collection_id": "5",
+        "collection_desc": "광물 123",
+        "type_id": 123,
+        "respawn_time": 45,
+        "coordinates": [
+            -19597.498,
+            -81138.3125,
+            5389.6987
+        ]
+    },
+    {
+        "territory_id": "11",
+        "territory_desc": "폭군의 고원 23",
+        "collection_id": "5",
+        "collection_desc": "광물 123",
+        "type_id": 123,
+        "respawn_time": 45,
+        "coordinates": [
+            -18785.6992,
+            -81052.9531,
+            5327.231
+        ]
+    },
+    {
+        "territory_id": "11",
+        "territory_desc": "폭군의 고원 23",
+        "collection_id": "5",
+        "collection_desc": "광물 123",
+        "type_id": 123,
+        "respawn_time": 45,
+        "coordinates": [
+            -18171.7969,
+            -80469.3203,
+            5348.1782
+        ]
+    },
+    {
+        "territory_id": "11",
+        "territory_desc": "폭군의 고원 23",
+        "collection_id": "5",
+        "collection_desc": "광물 123",
+        "type_id": 123,
+        "respawn_time": 45,
+        "coordinates": [
+            -17307.0898,
+            -81432.0469,
+            5219.353
+        ]
+    },
+    {
+        "territory_id": "11",
+        "territory_desc": "폭군의 고원 23",
+        "collection_id": "5",
+        "collection_desc": "광물 123",
+        "type_id": 123,
+        "respawn_time": 45,
+        "coordinates": [
+            -16382.6836,
+            -82511.8984,
+            5271.8931
+        ]
+    },
+    {
+        "territory_id": "11",
+        "territory_desc": "폭군의 고원 23",
+        "collection_id": "5",
+        "collection_desc": "광물 123",
+        "type_id": 123,
+        "respawn_time": 45,
+        "coordinates": [
+            -16385.9238,
+            -83496.3047,
+            5204.3247
+        ]
+    },
+    {
+        "territory_id": "11",
+        "territory_desc": "폭군의 고원 23",
+        "collection_id": "5",
+        "collection_desc": "광물 123",
+        "type_id": 123,
+        "respawn_time": 45,
+        "coordinates": [
+            -17243.7109,
+            -82934.6016,
+            5193.21
+        ]
+    },
+    {
+        "territory_id": "11",
+        "territory_desc": "폭군의 고원 23",
+        "collection_id": "5",
+        "collection_desc": "광물 123",
+        "type_id": 123,
+        "respawn_time": 45,
+        "coordinates": [
+            -6004.9897,
+            -87077.25,
+            4259.1782
+        ]
+    },
+    {
+        "territory_id": "11",
+        "territory_desc": "폭군의 고원 23",
+        "collection_id": "5",
+        "collection_desc": "광물 123",
+        "type_id": 123,
+        "respawn_time": 45,
+        "coordinates": [
+            -8060.6758,
+            -87257.6719,
+            4620.1714
+        ]
+    },
+    {
+        "territory_id": "11",
+        "territory_desc": "폭군의 고원 23",
+        "collection_id": "5",
+        "collection_desc": "광물 123",
+        "type_id": 123,
+        "respawn_time": 45,
+        "coordinates": [
+            -7489.4941,
+            -84411.3672,
+            4173.6201
+        ]
+    },
+    {
+        "territory_id": "11",
+        "territory_desc": "폭군의 고원 23",
+        "collection_id": "5",
+        "collection_desc": "광물 123",
+        "type_id": 123,
+        "respawn_time": 45,
+        "coordinates": [
+            -7122.5518,
+            -83194.0156,
+            4123.9907
+        ]
+    },
+    {
+        "territory_id": "11",
+        "territory_desc": "폭군의 고원 23",
+        "collection_id": "5",
+        "collection_desc": "광물 123",
+        "type_id": 123,
+        "respawn_time": 45,
+        "coordinates": [
+            -6908.7983,
+            -80121.5313,
+            4214.7363
+        ]
+    },
+    {
+        "territory_id": "11",
+        "territory_desc": "폭군의 고원 23",
+        "collection_id": "5",
+        "collection_desc": "광물 123",
+        "type_id": 123,
+        "respawn_time": 45,
+        "coordinates": [
+            -7903.0498,
+            -80076.3672,
+            4225.8354
+        ]
+    },
+    {
+        "territory_id": "11",
+        "territory_desc": "폭군의 고원 23",
+        "collection_id": "5",
+        "collection_desc": "광물 123",
+        "type_id": 123,
+        "respawn_time": 45,
+        "coordinates": [
+            -8297.7363,
+            -81554.4844,
+            4220.4038
+        ]
+    },
+    {
+        "territory_id": "11",
+        "territory_desc": "폭군의 고원 23",
+        "collection_id": "5",
+        "collection_desc": "광물 123",
+        "type_id": 123,
+        "respawn_time": 45,
+        "coordinates": [
+            -9872.5381,
+            -79954.4688,
+            4460.7925
+        ]
+    },
+    {
+        "territory_id": "11",
+        "territory_desc": "폭군의 고원 23",
+        "collection_id": "5",
+        "collection_desc": "광물 123",
+        "type_id": 123,
+        "respawn_time": 45,
+        "coordinates": [
+            -8716.4834,
+            -78608.5391,
+            4453.3809
+        ]
+    },
+    {
+        "territory_id": "11",
+        "territory_desc": "폭군의 고원 23",
+        "collection_id": "5",
+        "collection_desc": "광물 123",
+        "type_id": 123,
+        "respawn_time": 45,
+        "coordinates": [
+            -7679.9346,
+            -78096.1797,
+            4456.3989
+        ]
+    },
+    {
+        "territory_id": "11",
+        "territory_desc": "폭군의 고원 23",
+        "collection_id": "5",
+        "collection_desc": "광물 123",
+        "type_id": 123,
+        "respawn_time": 45,
+        "coordinates": [
+            -9684.1592,
+            -78200.7109,
+            4565.4238
+        ]
+    },
+    {
+        "territory_id": "11",
+        "territory_desc": "폭군의 고원 23",
+        "collection_id": "5",
+        "collection_desc": "광물 123",
+        "type_id": 123,
+        "respawn_time": 45,
+        "coordinates": [
+            -13069.502,
+            -81724.4688,
+            5120.3389
+        ]
+    },
+    {
+        "territory_id": "11",
+        "territory_desc": "폭군의 고원 23",
+        "collection_id": "5",
+        "collection_desc": "광물 123",
+        "type_id": 123,
+        "respawn_time": 45,
+        "coordinates": [
+            -12800.6445,
+            -83402.3828,
+            4998.1001
+        ]
+    },
+    {
+        "territory_id": "11",
+        "territory_desc": "폭군의 고원 23",
+        "collection_id": "5",
+        "collection_desc": "광물 123",
+        "type_id": 123,
+        "respawn_time": 45,
+        "coordinates": [
+            -11866.4863,
+            -83116.8281,
+            4985.52
+        ]
+    },
+    {
+        "territory_id": "11",
+        "territory_desc": "폭군의 고원 23",
+        "collection_id": "5",
+        "collection_desc": "광물 123",
+        "type_id": 123,
+        "respawn_time": 45,
+        "coordinates": [
+            -14169.8857,
+            -82601.9844,
+            5110.0366
+        ]
+    },
+    {
+        "territory_id": "11",
+        "territory_desc": "폭군의 고원 23",
+        "collection_id": "5",
+        "collection_desc": "광물 123",
+        "type_id": 123,
+        "respawn_time": 45,
+        "coordinates": [
+            -15097.2314,
+            -82984.9766,
+            5224.8389
+        ]
+    },
+    {
+        "territory_id": "11",
+        "territory_desc": "폭군의 고원 23",
+        "collection_id": "5",
+        "collection_desc": "광물 123",
+        "type_id": 123,
+        "respawn_time": 45,
+        "coordinates": [
+            -14017.25,
+            -84877.9922,
+            5068.1143
+        ]
+    },
+    {
+        "territory_id": "11",
+        "territory_desc": "폭군의 고원 23",
+        "collection_id": "5",
+        "collection_desc": "광물 123",
+        "type_id": 123,
+        "respawn_time": 45,
+        "coordinates": [
+            -12391.6338,
+            -84696.1797,
+            4978.5996
+        ]
+    },
+    {
+        "territory_id": "11",
+        "territory_desc": "폭군의 고원 23",
+        "collection_id": "5",
+        "collection_desc": "광물 123",
+        "type_id": 123,
+        "respawn_time": 45,
+        "coordinates": [
+            -11556.293,
+            -84428.0781,
+            5013.7402
+        ]
+    },
+    {
+        "territory_id": "11",
+        "territory_desc": "폭군의 고원 23",
+        "collection_id": "5",
+        "collection_desc": "광물 123",
+        "type_id": 123,
+        "respawn_time": 45,
+        "coordinates": [
+            -12232.1631,
+            -86027.1875,
+            5005.6528
+        ]
+    },
+    {
+        "territory_id": "11",
+        "territory_desc": "폭군의 고원 23",
+        "collection_id": "5",
+        "collection_desc": "광물 123",
+        "type_id": 123,
+        "respawn_time": 45,
+        "coordinates": [
+            -13561.0742,
+            -83765.9297,
+            5047.0415
+        ]
+    },
+    {
+        "territory_id": "11",
+        "territory_desc": "폭군의 고원 23",
+        "collection_id": "5",
+        "collection_desc": "광물 123",
+        "type_id": 123,
+        "respawn_time": 45,
+        "coordinates": [
+            -23959.7793,
+            -85651.8594,
+            5709.8735
+        ]
+    },
+    {
+        "territory_id": "11",
+        "territory_desc": "폭군의 고원 23",
+        "collection_id": "5",
+        "collection_desc": "광물 123",
+        "type_id": 123,
+        "respawn_time": 45,
+        "coordinates": [
+            -25259.9258,
+            -85436.7813,
+            5609.5273
+        ]
+    },
+    {
+        "territory_id": "11",
+        "territory_desc": "폭군의 고원 23",
+        "collection_id": "5",
+        "collection_desc": "광물 123",
+        "type_id": 123,
+        "respawn_time": 45,
+        "coordinates": [
+            -24186.4004,
+            -87045.625,
+            5595.3433
+        ]
+    },
+    {
+        "territory_id": "11",
+        "territory_desc": "폭군의 고원 23",
+        "collection_id": "5",
+        "collection_desc": "광물 123",
+        "type_id": 123,
+        "respawn_time": 45,
+        "coordinates": [
+            -24573.7266,
+            -88215.2422,
+            5635.9438
+        ]
+    },
+    {
+        "territory_id": "11",
+        "territory_desc": "폭군의 고원 23",
+        "collection_id": "5",
+        "collection_desc": "광물 123",
+        "type_id": 123,
+        "respawn_time": 45,
+        "coordinates": [
+            -23663.6836,
+            -88201.7813,
+            5705.9678
+        ]
+    },
+    {
+        "territory_id": "11",
+        "territory_desc": "폭군의 고원 23",
+        "collection_id": "5",
+        "collection_desc": "광물 123",
+        "type_id": 123,
+        "respawn_time": 45,
+        "coordinates": [
+            -22608.4375,
+            -88048.875,
+            5796.2158
+        ]
+    },
+    {
+        "territory_id": "11",
+        "territory_desc": "폭군의 고원 23",
+        "collection_id": "5",
+        "collection_desc": "광물 123",
+        "type_id": 123,
+        "respawn_time": 45,
+        "coordinates": [
+            -25645.7598,
+            -88029.9609,
+            5691.2339
+        ]
+    },
+    {
+        "territory_id": "11",
+        "territory_desc": "폭군의 고원 23",
+        "collection_id": "5",
+        "collection_desc": "광물 123",
+        "type_id": 123,
+        "respawn_time": 45,
+        "coordinates": [
+            -25060.2344,
+            -88582.6875,
+            5671.2227
+        ]
+    },
+    {
+        "territory_id": "11",
+        "territory_desc": "폭군의 고원 23",
+        "collection_id": "5",
+        "collection_desc": "광물 123",
+        "type_id": 123,
+        "respawn_time": 45,
+        "coordinates": [
+            -21561.2402,
+            -89364.3203,
+            5876.873
+        ]
+    },
+    {
+        "territory_id": "11",
+        "territory_desc": "폭군의 고원 23",
+        "collection_id": "5",
+        "collection_desc": "광물 123",
+        "type_id": 123,
+        "respawn_time": 45,
+        "coordinates": [
+            -25653.8789,
+            -87073.6484,
+            5611.4097
+        ]
+    },
+    {
+        "territory_id": "11",
+        "territory_desc": "폭군의 고원 23",
+        "collection_id": "5",
+        "collection_desc": "광물 123",
+        "type_id": 123,
+        "respawn_time": 45,
+        "coordinates": [
+            -28005.8965,
+            -85600.8672,
+            5820.5039
+        ]
+    },
+    {
+        "territory_id": "11",
+        "territory_desc": "폭군의 고원 23",
+        "collection_id": "5",
+        "collection_desc": "광물 123",
+        "type_id": 123,
+        "respawn_time": 45,
+        "coordinates": [
+            -26849.7441,
+            -85480.0391,
+            5824.1318
+        ]
+    },
+    {
+        "territory_id": "11",
+        "territory_desc": "폭군의 고원 23",
+        "collection_id": "5",
+        "collection_desc": "광물 123",
+        "type_id": 123,
+        "respawn_time": 45,
+        "coordinates": [
+            -27285.5742,
+            -86900.4297,
+            5898.251
+        ]
+    },
+    {
+        "territory_id": "11",
+        "territory_desc": "폭군의 고원 23",
+        "collection_id": "5",
+        "collection_desc": "광물 123",
+        "type_id": 123,
+        "respawn_time": 45,
+        "coordinates": [
+            -27216.5527,
+            -89218.3594,
+            6065.0361
+        ]
+    },
+    {
+        "territory_id": "11",
+        "territory_desc": "폭군의 고원 23",
+        "collection_id": "5",
+        "collection_desc": "광물 123",
+        "type_id": 123,
+        "respawn_time": 45,
+        "coordinates": [
+            -25150.791,
+            -90385.6094,
+            6316.584
+        ]
+    },
+    {
+        "territory_id": "11",
+        "territory_desc": "폭군의 고원 23",
+        "collection_id": "5",
+        "collection_desc": "광물 123",
+        "type_id": 123,
+        "respawn_time": 45,
+        "coordinates": [
+            -22216.8047,
+            -90691.0313,
+            6495.1543
+        ]
+    },
+    {
+        "territory_id": "11",
+        "territory_desc": "폭군의 고원 23",
+        "collection_id": "5",
+        "collection_desc": "광물 123",
+        "type_id": 123,
+        "respawn_time": 45,
+        "coordinates": [
+            -21353.7754,
+            -91362.3281,
+            6666.9336
+        ]
+    },
+    {
+        "territory_id": "11",
+        "territory_desc": "폭군의 고원 23",
+        "collection_id": "5",
+        "collection_desc": "광물 123",
+        "type_id": 123,
+        "respawn_time": 45,
+        "coordinates": [
+            -19409.9531,
+            -90770.7031,
+            6926.0967
+        ]
+    },
+    {
+        "territory_id": "11",
+        "territory_desc": "폭군의 고원 23",
+        "collection_id": "5",
+        "collection_desc": "광물 123",
+        "type_id": 123,
+        "respawn_time": 45,
+        "coordinates": [
+            -18570.3164,
+            -89628.9609,
+            6950.8921
+        ]
+    },
+    {
+        "territory_id": "11",
+        "territory_desc": "폭군의 고원 23",
+        "collection_id": "6",
+        "collection_desc": "정기 323",
+        "type_id": 323,
+        "respawn_time": 45,
+        "coordinates": [
+            -16006.3057,
+            -88892.75,
+            7350.4189
+        ]
+    },
+    {
+        "territory_id": "11",
+        "territory_desc": "폭군의 고원 23",
+        "collection_id": "6",
+        "collection_desc": "정기 323",
+        "type_id": 323,
+        "respawn_time": 45,
+        "coordinates": [
+            -16802.5762,
+            -86114.1797,
+            6735.5923
+        ]
+    },
+    {
+        "territory_id": "11",
+        "territory_desc": "폭군의 고원 23",
+        "collection_id": "6",
+        "collection_desc": "정기 323",
+        "type_id": 323,
+        "respawn_time": 45,
+        "coordinates": [
+            -15547.3135,
+            -91045.9063,
+            7820.0308
+        ]
+    },
+    {
+        "territory_id": "11",
+        "territory_desc": "폭군의 고원 23",
+        "collection_id": "6",
+        "collection_desc": "정기 323",
+        "type_id": 323,
+        "respawn_time": 45,
+        "coordinates": [
+            -21224.7109,
+            -90543.125,
+            6552.3477
+        ]
+    },
+    {
+        "territory_id": "11",
+        "territory_desc": "폭군의 고원 23",
+        "collection_id": "6",
+        "collection_desc": "정기 323",
+        "type_id": 323,
+        "respawn_time": 45,
+        "coordinates": [
+            -23068.0156,
+            -90698.0078,
+            6483.0518
+        ]
+    },
+    {
+        "territory_id": "11",
+        "territory_desc": "폭군의 고원 23",
+        "collection_id": "6",
+        "collection_desc": "정기 323",
+        "type_id": 323,
+        "respawn_time": 45,
+        "coordinates": [
+            -21679.5234,
+            -88100.4766,
+            5851.7676
+        ]
+    },
+    {
+        "territory_id": "11",
+        "territory_desc": "폭군의 고원 23",
+        "collection_id": "6",
+        "collection_desc": "정기 323",
+        "type_id": 323,
+        "respawn_time": 45,
+        "coordinates": [
+            -25023.9746,
+            -87463.1875,
+            5591.0762
+        ]
+    },
+    {
+        "territory_id": "11",
+        "territory_desc": "폭군의 고원 23",
+        "collection_id": "6",
+        "collection_desc": "정기 323",
+        "type_id": 323,
+        "respawn_time": 45,
+        "coordinates": [
+            -26265.7734,
+            -84920.3359,
+            5794.1714
+        ]
+    },
+    {
+        "territory_id": "11",
+        "territory_desc": "폭군의 고원 23",
+        "collection_id": "6",
+        "collection_desc": "정기 323",
+        "type_id": 323,
+        "respawn_time": 45,
+        "coordinates": [
+            -28495.6602,
+            -86205.1563,
+            5873.6816
+        ]
+    },
+    {
+        "territory_id": "11",
+        "territory_desc": "폭군의 고원 23",
+        "collection_id": "6",
+        "collection_desc": "정기 323",
+        "type_id": 323,
+        "respawn_time": 45,
+        "coordinates": [
+            -26620.4316,
+            -87740.4688,
+            6012.7969
+        ]
+    },
+    {
+        "territory_id": "11",
+        "territory_desc": "폭군의 고원 23",
+        "collection_id": "6",
+        "collection_desc": "정기 323",
+        "type_id": 323,
+        "respawn_time": 45,
+        "coordinates": [
+            -23555.5977,
+            -86271.4688,
+            5659.4111
+        ]
+    },
+    {
+        "territory_id": "11",
+        "territory_desc": "폭군의 고원 23",
+        "collection_id": "6",
+        "collection_desc": "정기 323",
+        "type_id": 323,
+        "respawn_time": 45,
+        "coordinates": [
+            -20911.9141,
+            -89565.0313,
+            5996.6484
+        ]
+    },
+    {
+        "territory_id": "11",
+        "territory_desc": "폭군의 고원 23",
+        "collection_id": "6",
+        "collection_desc": "정기 323",
+        "type_id": 323,
+        "respawn_time": 45,
+        "coordinates": [
+            -24368.5957,
+            -96466.0703,
+            8062.9443
+        ]
+    },
+    {
+        "territory_id": "11",
+        "territory_desc": "폭군의 고원 23",
+        "collection_id": "6",
+        "collection_desc": "정기 323",
+        "type_id": 323,
+        "respawn_time": 45,
+        "coordinates": [
+            -27426.0117,
+            -99421.0391,
+            8500.6055
+        ]
+    },
+    {
+        "territory_id": "11",
+        "territory_desc": "폭군의 고원 23",
+        "collection_id": "6",
+        "collection_desc": "정기 323",
+        "type_id": 323,
+        "respawn_time": 45,
+        "coordinates": [
+            -29179.0703,
+            -98775.4766,
+            8921.7764
+        ]
+    },
+    {
+        "territory_id": "11",
+        "territory_desc": "폭군의 고원 23",
+        "collection_id": "6",
+        "collection_desc": "정기 323",
+        "type_id": 323,
+        "respawn_time": 45,
+        "coordinates": [
+            -27280.3164,
+            -101516.9219,
+            8743.1094
+        ]
+    },
+    {
+        "territory_id": "11",
+        "territory_desc": "폭군의 고원 23",
+        "collection_id": "6",
+        "collection_desc": "정기 323",
+        "type_id": 323,
+        "respawn_time": 45,
+        "coordinates": [
+            -21269.7598,
+            -96657.4453,
+            8553.4854
+        ]
+    },
+    {
+        "territory_id": "11",
+        "territory_desc": "폭군의 고원 23",
+        "collection_id": "6",
+        "collection_desc": "정기 323",
+        "type_id": 323,
+        "respawn_time": 45,
+        "coordinates": [
+            -18141.2715,
+            -97272.8516,
+            8976.665
+        ]
+    },
+    {
+        "territory_id": "11",
+        "territory_desc": "폭군의 고원 23",
+        "collection_id": "6",
+        "collection_desc": "정기 323",
+        "type_id": 323,
+        "respawn_time": 45,
+        "coordinates": [
+            -18088.8711,
+            -98890.5391,
+            9146.332
+        ]
+    },
+    {
+        "territory_id": "11",
+        "territory_desc": "폭군의 고원 23",
+        "collection_id": "6",
+        "collection_desc": "정기 323",
+        "type_id": 323,
+        "respawn_time": 45,
+        "coordinates": [
+            -21897.1719,
+            -88645.8047,
+            5841.9229
+        ]
+    },
+    {
+        "territory_id": "11",
+        "territory_desc": "폭군의 고원 23",
+        "collection_id": "6",
+        "collection_desc": "정기 323",
+        "type_id": 323,
+        "respawn_time": 45,
+        "coordinates": [
+            -16444.4648,
+            -90504.3047,
+            7459.9863
+        ]
+    },
+    {
+        "territory_id": "11",
+        "territory_desc": "폭군의 고원 23",
+        "collection_id": "6",
+        "collection_desc": "정기 323",
+        "type_id": 323,
+        "respawn_time": 45,
+        "coordinates": [
+            -17848.9258,
+            -89522.7578,
+            7093.4072
+        ]
+    },
+    {
+        "territory_id": "11",
+        "territory_desc": "폭군의 고원 23",
+        "collection_id": "6",
+        "collection_desc": "정기 323",
+        "type_id": 323,
+        "respawn_time": 45,
+        "coordinates": [
+            -24527.1328,
+            -94720.7266,
+            7388.1172
+        ]
+    },
+    {
+        "territory_id": "11",
+        "territory_desc": "폭군의 고원 23",
+        "collection_id": "6",
+        "collection_desc": "정기 323",
+        "type_id": 323,
+        "respawn_time": 45,
+        "coordinates": [
+            -24481.4414,
+            -93504.7891,
+            7079.7373
+        ]
+    },
+    {
+        "territory_id": "11",
+        "territory_desc": "폭군의 고원 23",
+        "collection_id": "6",
+        "collection_desc": "정기 323",
+        "type_id": 323,
+        "respawn_time": 45,
+        "coordinates": [
+            -19525.1777,
+            -98167.8281,
+            8900.3564
+        ]
+    },
+    {
+        "territory_id": "11",
+        "territory_desc": "폭군의 고원 23",
+        "collection_id": "6",
+        "collection_desc": "정기 323",
+        "type_id": 323,
+        "respawn_time": 45,
+        "coordinates": [
+            -20405.4219,
+            -97554.2891,
+            8678.6055
+        ]
+    },
+    {
+        "territory_id": "11",
+        "territory_desc": "폭군의 고원 23",
+        "collection_id": "6",
+        "collection_desc": "정기 323",
+        "type_id": 323,
+        "respawn_time": 45,
+        "coordinates": [
+            -21321.8809,
+            -98243.125,
+            8551.4678
+        ]
+    },
+    {
+        "territory_id": "11",
+        "territory_desc": "폭군의 고원 23",
+        "collection_id": "6",
+        "collection_desc": "정기 323",
+        "type_id": 323,
+        "respawn_time": 45,
+        "coordinates": [
+            -21754.7734,
+            -97761.5,
+            8441.9648
+        ]
+    },
+    {
+        "territory_id": "11",
+        "territory_desc": "폭군의 고원 23",
+        "collection_id": "6",
+        "collection_desc": "정기 323",
+        "type_id": 323,
+        "respawn_time": 45,
+        "coordinates": [
+            -21069.4102,
+            -97314.6797,
+            8574.0469
+        ]
+    },
+    {
+        "territory_id": "11",
+        "territory_desc": "폭군의 고원 23",
+        "collection_id": "6",
+        "collection_desc": "정기 323",
+        "type_id": 323,
+        "respawn_time": 45,
+        "coordinates": [
+            -20318.6113,
+            -96896.0313,
+            8675.9912
+        ]
+    },
+    {
+        "territory_id": "11",
+        "territory_desc": "폭군의 고원 23",
+        "collection_id": "6",
+        "collection_desc": "정기 323",
+        "type_id": 323,
+        "respawn_time": 45,
+        "coordinates": [
+            -21659.2051,
+            -96665.3125,
+            8462.9951
+        ]
+    },
+    {
+        "territory_id": "11",
+        "territory_desc": "폭군의 고원 23",
+        "collection_id": "6",
+        "collection_desc": "정기 323",
+        "type_id": 323,
+        "respawn_time": 45,
+        "coordinates": [
+            -21704.8418,
+            -98925.7266,
+            8704.6445
+        ]
+    },
+    {
+        "territory_id": "11",
+        "territory_desc": "폭군의 고원 23",
+        "collection_id": "6",
+        "collection_desc": "정기 323",
+        "type_id": 323,
+        "respawn_time": 45,
+        "coordinates": [
+            -23237.0762,
+            -97501.7891,
+            8214.457
+        ]
+    },
+    {
+        "territory_id": "11",
+        "territory_desc": "폭군의 고원 23",
+        "collection_id": "6",
+        "collection_desc": "정기 323",
+        "type_id": 323,
+        "respawn_time": 45,
+        "coordinates": [
+            -24071.2246,
+            -97182.7422,
+            8106.2969
+        ]
+    },
+    {
+        "territory_id": "11",
+        "territory_desc": "폭군의 고원 23",
+        "collection_id": "6",
+        "collection_desc": "정기 323",
+        "type_id": 323,
+        "respawn_time": 45,
+        "coordinates": [
+            -24991.1621,
+            -98118.0156,
+            8108.7168
+        ]
+    },
+    {
+        "territory_id": "11",
+        "territory_desc": "폭군의 고원 23",
+        "collection_id": "6",
+        "collection_desc": "정기 323",
+        "type_id": 323,
+        "respawn_time": 45,
+        "coordinates": [
+            -25224.0059,
+            -99172.6406,
+            8245.3916
+        ]
+    },
+    {
+        "territory_id": "11",
+        "territory_desc": "폭군의 고원 23",
+        "collection_id": "6",
+        "collection_desc": "정기 323",
+        "type_id": 323,
+        "respawn_time": 45,
+        "coordinates": [
+            -24313.0332,
+            -100273.75,
+            8445.3848
+        ]
+    },
+    {
+        "territory_id": "11",
+        "territory_desc": "폭군의 고원 23",
+        "collection_id": "6",
+        "collection_desc": "정기 323",
+        "type_id": 323,
+        "respawn_time": 45,
+        "coordinates": [
+            -24986.1445,
+            -101118.6953,
+            8567.1318
+        ]
+    },
+    {
+        "territory_id": "11",
+        "territory_desc": "폭군의 고원 23",
+        "collection_id": "6",
+        "collection_desc": "정기 323",
+        "type_id": 323,
+        "respawn_time": 45,
+        "coordinates": [
+            -23854.1035,
+            -101275.7188,
+            8707.793
+        ]
+    },
+    {
+        "territory_id": "11",
+        "territory_desc": "폭군의 고원 23",
+        "collection_id": "6",
+        "collection_desc": "정기 323",
+        "type_id": 323,
+        "respawn_time": 45,
+        "coordinates": [
+            -23117.0645,
+            -99483.7969,
+            8348.4551
+        ]
+    },
+    {
+        "territory_id": "11",
+        "territory_desc": "폭군의 고원 23",
+        "collection_id": "6",
+        "collection_desc": "정기 323",
+        "type_id": 323,
+        "respawn_time": 45,
+        "coordinates": [
+            -24054.2559,
+            -98249.75,
+            8179.1572
+        ]
+    },
+    {
+        "territory_id": "11",
+        "territory_desc": "폭군의 고원 23",
+        "collection_id": "6",
+        "collection_desc": "정기 323",
+        "type_id": 323,
+        "respawn_time": 45,
+        "coordinates": [
+            -27391.877,
+            -100324.1797,
+            8540.8848
+        ]
+    },
+    {
+        "territory_id": "11",
+        "territory_desc": "폭군의 고원 23",
+        "collection_id": "6",
+        "collection_desc": "정기 323",
+        "type_id": 323,
+        "respawn_time": 45,
+        "coordinates": [
+            -28541.4844,
+            -100648.3594,
+            8763.5605
+        ]
+    },
+    {
+        "territory_id": "11",
+        "territory_desc": "폭군의 고원 23",
+        "collection_id": "6",
+        "collection_desc": "정기 323",
+        "type_id": 323,
+        "respawn_time": 45,
+        "coordinates": [
+            -24819.3965,
+            -102117.7266,
+            8728.0
+        ]
+    },
+    {
+        "territory_id": "11",
+        "territory_desc": "폭군의 고원 23",
+        "collection_id": "6",
+        "collection_desc": "정기 323",
+        "type_id": 323,
+        "respawn_time": 45,
+        "coordinates": [
+            -24350.7734,
+            -98989.1641,
+            8233.9297
+        ]
+    }
+]
