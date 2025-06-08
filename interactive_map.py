@@ -34,7 +34,7 @@ def calculate_path_distance(path_coords_folium_style):
 
     return total_distance
 
-def create_interactive_map(data_file="spawn_data.json", output_file="spawn_locations_map.html", user_path_str=None, desired_type_ids_list=None, travel_speed=50.0):
+def create_interactive_map(data_file="spawn_data.json", output_file="spawn_locations_map.html", user_path_str=None, desired_type_ids_list=None, travel_speed=50.0, vertical_stretch_factor=1.0):
     """
     Creates an interactive HTML map of spawn locations using Folium.
 
@@ -47,20 +47,21 @@ def create_interactive_map(data_file="spawn_data.json", output_file="spawn_locat
             spawn_points = json.load(f)
     except FileNotFoundError:
         print(f"Error: Data file '{data_file}' not found.")
-        return
+        return None, None
     except json.JSONDecodeError:
         print(f"Error: Could not decode JSON from '{data_file}'.")
-        return
+        return None, None
 
     if not spawn_points:
         print("No spawn points found in the data. Map will not be generated.")
-        return
+        return None, None
 
     # Calculate average coordinates for map center
     # Assuming coordinates are [X, Y, Z]
     # Folium expects [latitude, longitude] which corresponds to [Y, X] in typical game coordinates
     avg_x = sum(p['coordinates'][0] for p in spawn_points) / len(spawn_points)
-    avg_y = sum(p['coordinates'][1] for p in spawn_points) / len(spawn_points)
+    # Apply vertical stretch factor to Y for map display
+    avg_y = sum(p['coordinates'][1] * vertical_stretch_factor for p in spawn_points) / len(spawn_points)
 
     # Create map centered at average Y (latitude), average X (longitude)
     # Adjust zoom_start as needed. Smaller numbers zoom out.
@@ -73,7 +74,8 @@ def create_interactive_map(data_file="spawn_data.json", output_file="spawn_locat
     # We'll assume for now that Y is latitude-like and X is longitude-like.
 
     # Let's determine the range of coordinates to set a reasonable zoom
-    all_lats = [p['coordinates'][1] for p in spawn_points]
+    # Apply vertical stretch factor to Y for map display bounds
+    all_lats = [p['coordinates'][1] * vertical_stretch_factor for p in spawn_points]
     all_lons = [p['coordinates'][0] for p in spawn_points]
 
     map_center_lat = avg_y
@@ -102,8 +104,9 @@ def create_interactive_map(data_file="spawn_data.json", output_file="spawn_locat
         type_id = str(point.get('type_id', 'N/A')) # Ensure string for lookup
         respawn_time = point.get('respawn_time', 'N/A')
 
-        # Folium location: [latitude, longitude] -> [Y, X]
-        marker_location = [coords[1], coords[0]]
+        # Folium location: [latitude, longitude] -> [Y * stretch, X]
+        # Original Y (coords[1]) is used for popup, stretched Y for map display
+        marker_location = [coords[1] * vertical_stretch_factor, coords[0]]
 
         popup_html = f"""
         <b>Collection:</b> {collection_desc}<br>
@@ -140,8 +143,9 @@ def create_interactive_map(data_file="spawn_data.json", output_file="spawn_locat
 
         # Start with the first point in the filtered list
         current_node_data = remaining_points.pop(0)
-        current_coords_xy = current_node_data['coordinates'][:2] # X, Y for distance
-        ai_generated_path_coords.append([current_node_data['coordinates'][1], current_node_data['coordinates'][0]]) # Y, X for Folium
+        current_coords_xy = current_node_data['coordinates'][:2] # X, Y for original distance calculation
+        # Apply stretch for Folium path display
+        ai_generated_path_coords.append([current_node_data['coordinates'][1] * vertical_stretch_factor, current_node_data['coordinates'][0]]) # Stretched Y, X for Folium
 
         while remaining_points:
             next_node_data = None
@@ -161,8 +165,9 @@ def create_interactive_map(data_file="spawn_data.json", output_file="spawn_locat
                     current_point_idx_in_remaining = i
 
             if next_node_data:
-                current_coords_xy = next_node_data['coordinates'][:2]
-                ai_generated_path_coords.append([next_node_data['coordinates'][1], next_node_data['coordinates'][0]])
+                current_coords_xy = next_node_data['coordinates'][:2] # Original X,Y for next distance calc
+                # Apply stretch for Folium path display
+                ai_generated_path_coords.append([next_node_data['coordinates'][1] * vertical_stretch_factor, next_node_data['coordinates'][0]])
                 remaining_points.pop(current_point_idx_in_remaining)
             else: # Should only happen if remaining_points was empty, but loop condition handles this
                 break
@@ -197,9 +202,9 @@ def create_interactive_map(data_file="spawn_data.json", output_file="spawn_locat
 
         for cid_in_path in path_collection_ids:
             if cid_in_path in spawn_points_by_collection_id:
-                # coords are [X, Y, Z], Folium needs [lat, lon] -> [Y, X]
+                # coords are [X, Y, Z], Folium needs [lat, lon] -> [Y * stretch, X]
                 coords = spawn_points_by_collection_id[cid_in_path]
-                user_path_coords_folium_style.append([coords[1], coords[0]])
+                user_path_coords_folium_style.append([coords[1] * vertical_stretch_factor, coords[0]])
             else:
                 print(f"Warning: Collection ID '{cid_in_path}' in path not found in spawn data. Path point skipped.")
 
@@ -239,6 +244,8 @@ def create_interactive_map(data_file="spawn_data.json", output_file="spawn_locat
     except Exception as e:
         print(f"Error saving map: {e}")
 
+    return map_center_lat, map_center_lon
+
 if __name__ == "__main__":
     parser = argparse.ArgumentParser(description="Generate an interactive map of spawn locations.")
     parser.add_argument("--data_file", default="spawn_data.json", help="Path to the spawn data JSON file.")
@@ -251,6 +258,7 @@ if __name__ == "__main__":
         default=50.0,
         help='Assumed travel speed in units per second (default: 50.0).'
     )
+    parser.add_argument("--stretch_factor", type=float, default=1.0, help="Visual vertical stretch factor for the map display.")
 
     args = parser.parse_args()
 
@@ -272,5 +280,6 @@ if __name__ == "__main__":
         output_file=args.output_file,
         user_path_str=args.path,
         desired_type_ids_list=desired_type_ids_for_ai,
-        travel_speed=travel_speed
+        travel_speed=travel_speed,
+        vertical_stretch_factor=args.stretch_factor
     )
